@@ -10,6 +10,12 @@
   "dependencies": {
     "next": "10.0.3",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-link-svelte": "^0.0.2-alpha.2"
+  },
+  "devDependencies": {
+    "svelte": "^3.31.0",
+    "svelte-loader": "^2.13.6",
+    "svelte-preprocess": "^4.6.1"
   }
 }
